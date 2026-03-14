@@ -14,7 +14,7 @@ TRAIN_SCRIPT="${SCRIPT_DIR}/IsaacLab/scripts/reinforcement_learning/rsl_rl/train
 
 # Defaults
 NUM_ENVS=4096
-MAX_ITERATIONS=1500
+MAX_ITERATIONS=3000
 EXTRA_ARGS=()
 
 # Parse overrides
