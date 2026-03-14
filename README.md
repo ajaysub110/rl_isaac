@@ -16,7 +16,7 @@ Several core dependencies are **not included** in this codebase and must be down
 *   **Operating System**: Linux (Ubuntu 22.04 or 24.04 recommended)
 *   **GPU**: NVIDIA RTX GPU (RTX 4090 recommended)
 *   [**Isaac Sim 5.1.0**](https://docs.omniverse.nvidia.com/isaacsim/latest/installation/index.html)
-*   [**IsaacLab**](https://github.com/isaac-sim/IsaacLab) (Included as a git submodule)
+*   [**IsaacLab**](https://github.com/isaac-sim/IsaacLab)
 *   [**ASAP Pipeline**](https://github.com/LeCAR-Lab/ASAP) (Aligning Simulation and Real-World Physics)
 *   **SMPL Models**: Necessary for ASAP retargeting (`SMPL_python_v.1.1.0.zip`).
 *   [**AMASS Dataset**](https://amass.is.tue.mpg.de/): Human mocap dataset (`.npz` files).
